@@ -27,7 +27,7 @@
      </p>
      <p>
       <code>gem "bbc_api", "0.1.1" </code><br/>
-      <span>OR</span>
+      <span>OR</span><br/>
       <code>gem install bbc_api</code>
      </p>
    </div>
