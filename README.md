@@ -9,7 +9,7 @@
   </p>
    <div>
      <p>
-      Integrate BBC world NEWS API to get all topic wise stories,headlines,world news. You can install it as a desktop application as well as Rails Application
+      Integrate BBC world NEWS API to get all topic(UK newz,headlines,world news,technology newz...) wise newz. You can install it as a desktop application as well as Rails Application
     </p>
    </div>
    <div>
@@ -37,9 +37,9 @@
    <p>
     <code>require 'bbc_api'</code><br/>
     <code>bbc = BBC::Api.new</code><br/>
-    <h2>Get The topics</h2><br/>
+    <b>Get The topics</b><br/>
     <code>bbc.topics</code><br/>
-    <p><b>It will return all the topics like HEAlines,Technology,entertainment,world,uk...etc</b></p>
+    <p><b>It will return all the topics like Headlines,Technology,entertainment,world,uk...etc</b></p>
     <code>bbc.topics.first.stories</code>
     <p><b>It will return the stories or the news of the corresponding topic..</b></p>
     <h2>Now You can access This Attributes of the Story</h2>
