@@ -6,6 +6,7 @@
   <h1>BBC WORLD NEWS API Integration</h1>
   <p>
   <a href="https://travis-ci.org/rajcybage/bbc_api"><img src="https://travis-ci.org/rajcybage/bbc_api.png?branch=master" alt="Build Status" /></a>
+   <a href="http://badge.fury.io/rb/bbc_api"><img src="https://badge.fury.io/rb/bbc_api.png"/></a>
   </p>
    <div>
      <p>
