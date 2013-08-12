@@ -1,4 +1,5 @@
-source "htttps://rubygems.org"
+source 'http://rubygems.org'
 
-gem "rspec"
-gem "rake"
+gem 'rspec'
+gem 'rake'
+gem 'webmock'

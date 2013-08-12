@@ -1,4 +1,3 @@
-<!Doctype>
 <html>
   <head>
     <title>BBC API INTEGRATION</title>
@@ -7,8 +6,10 @@
       <h1>Get All the NEWS From BBC World using BBC API</h1>
       <div>
           <p>
-           Integrate BBC world NEWZ Api to get all topic wise stories,headlines,world newz
+           Integrate BBC world NEWS API to get all topic wise stories,headlines,world news. You can install it as a desktop application as well as Rails Application
+
           </p>
       </div>
+
   </body>
 </html>
