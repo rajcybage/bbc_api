@@ -40,7 +40,7 @@
     <p><b>It will return all the topics like Headlines,Technology,entertainment,world,uk...etc</b></p>
     <code>bbc.topics.first.stories</code>
     <p><b>It will return the stories or the news of the corresponding topic..</b></p>
-    <h2>Now You can access This Attributes of the Story</h2>
+    <h2>Now You can access the attributes of that NEWZ</h2>
     <p><b><code>bbc.topics.first.stories.title</code><span>the title of that newz</span><br/>
     <code>bbc.topics.first.stories.link</code><span>the link of that newz</span><br/>
     <code>bbc.topics.first.stories.image</code><span>the image of that newz</span><br/>
