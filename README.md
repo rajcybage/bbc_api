@@ -26,9 +26,7 @@
       In Gemfile
      </p>
      <p>
-      <code>gem "bbc_api", git: "https://github.com/rajcybage/bbc_api"</code><br/>
-      <span>OR</span><br/>
-      <code>gem "bbc_api", "0.1.0" </code>
+      <code>gem "bbc_api", "0.1.1" </code>
      </p>
    </div>
    
