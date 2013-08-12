@@ -5,9 +5,9 @@ Gem::Specification.new do |s|
   s.date        = '2013-08-12'
   s.summary     = "Integrate BBC world NEWZ Api to get all topic wise stories,headlines,world newz"
   s.authors     = ["Rajarshi Das"]
-  s.license     = "Copyright (c) Rajarshi Das. All rights reserved"
+  s.license     = "MIT"
   s.email       = 'rdasarminus@gmail.com'
-  s.files       = Dir["README.md","Gemfile","Rakefile", "lib/**/*"]
+  s.files       = Dir["README.md","Gemfile","Rakefile", "lib/**/*", "spec/*"]
   s.homepage    = 'https://github.com/rajcybage/bbc_api'
 end
 
