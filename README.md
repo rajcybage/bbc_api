@@ -4,6 +4,9 @@
   </head>
   <body>
   <h1>BBC WORLD NEWS API Integration</h1>
+  <p>
+  <a href="https://travis-ci.org/rajcybage/bbc_api"><img src="https://travis-ci.org/rajcybage/bbc_api.png?branch=master" alt="Build Status" /></a>
+  </p>
    <div>
      <p>
       Integrate BBC world NEWS API to get all topic wise stories,headlines,world news. You can install it as a desktop application as well as Rails Application
