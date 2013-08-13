@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>BBC API INTEGRATION</title>
+    <title> BBC API INTEGRATION</title>
   </head>
   <body>
   <h1>BBC WORLD NEWS API Integration</h1>
