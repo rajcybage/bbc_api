@@ -28,7 +28,7 @@
       In Gemfile
      </p>
      <p>
-      <code>gem "bbc_api", "0.2.0" </code>
+      <code>gem "bbc_api", "0.2.1" </code>
      </p>
    </div>
    
